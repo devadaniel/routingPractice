@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.not-found-image {
+  height: 250px;
+  width: 290px;
+  margin-top: 0px;
+}
+
+.home-heading {
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: 500;
+  color: #555555;
+}
